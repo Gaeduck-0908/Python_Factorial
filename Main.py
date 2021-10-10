@@ -44,7 +44,6 @@ title.pack()
 inputnum = tk.Entry(window, width= 40)
 inputnum.pack(pady=20)
 
-
 Resulttext =tk.Label(window, bg= "white",width=50, height=5, text="결과")
 Resulttext.pack()
 
