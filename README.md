@@ -4,3 +4,6 @@
 ### Main.py = 소스코드
 ### Main.exe = 실행파일
 ### 해설 블로그 https://blog.naver.com/gms8757/222512450253
+
+#### 실행화면.
+![image](https://user-images.githubusercontent.com/82009667/135588147-fc9d97bf-30f2-49fe-b8c7-60c96e6a4b4d.png)
